@@ -17,5 +17,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 Required python packages:
 
-pip install beautifulsoup
+pip install beautifulsoup4
+pip install requests
+
 	 
