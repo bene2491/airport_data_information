@@ -1,0 +1,4 @@
+1.) extracting data from raw_data in clean format
+2.) save the static airport data (everything except metar) in a json.file
+3.) implement a check on new search request if static airport data already exists in json, if no -> create static data
+    if yes -> scrape only metar data
